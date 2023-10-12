@@ -7,6 +7,15 @@
         "download_url": "https://github.com/NumberSir/zhenxun_arktools/releases/download/v1.0.0/zhenxun_arktools.zip",
         "github_url": "https://github.com/NumberSir/zhenxun_arktools"
     },
+    
+    "yuanshen": {
+        "plugin_name": " 股票游戏",
+        "author": "未知",
+        "version": 2.5,
+        "introduction": "股票游戏，与现实同步",
+        "download_url": "https://github.com/RShock/zhenxun_plugin_stock_legend/archive/refs/heads/main.zip",
+        "github_url": "https://github.com/RShock/zhenxun_plugin_stock_legend"
+    },
     "zhenxun_plugin_siyuan": {
         "plugin_name": "思源笔记",
         "author": "Zuoqiu-Yingyi",
