@@ -18,7 +18,7 @@
     "nonebot_plugin_fortune": {
         "plugin_name": "抽签",
         "author": "KafCoppelia",
-        "version": 0.4.12,
+        "version": 0.4,
         "introduction": "今日运势",
         "download_url": "https://github.com/2027839379/naxida/releases/download/chouqian/nonebot_plugin_fortune.zip",
         "github_url": "https://nonebot.dev/store/plugins"
@@ -27,7 +27,7 @@
     "nonebot_plugin_today_waifu": {
         "plugin_name": "今日老婆",
         "author": "插件商店",
-        "version": 0.1.5,
+        "version": 1.5,
         "introduction": "抽老婆",
         "download_url": "https://github.com/2027839379/naxida/releases/download/laopo/nonebot_plugin_today_waifu.zip",
         "github_url": "https://nonebot.dev/store/plugins"
