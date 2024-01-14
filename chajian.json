@@ -41,6 +41,15 @@
         "download_url": "https://github.com/2027839379/naxida/releases/download/dg/work.zip",
         "github_url": "https://nonebot.dev/store/plugins"
     },
+    
+    "sign_in": {
+        "plugin_name": "签到",
+        "author": "HibiKier",
+        "version": 0.1,
+        "introduction": "每日签到",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/qd/sign_in.zip",
+        "github_url": "https://github.com/HibiKier/zhenxun_bot"
+    },
     "zhenxun_plugin_siyuan": {
         "plugin_name": "思源笔记",
         "author": "Zuoqiu-Yingyi",
