@@ -7,6 +7,14 @@
         "download_url": "https://github.com/2027839379/naxida/releases/download/csgo/open_cases.zip",
         "github_url": "https://github.com/HibiKier/zhenxun_bot"
     },
+    "nonebot_plugin_gocqhttp": {
+        "plugin_name": "gocq-webui",
+        "author": "mnixry",
+        "version": 0.1,
+        "introduction": "使用gocq登录",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/gocq/nonebot_plugin_gocqhttp.zip",
+        "github_url": "https://github.com/mnixry/nonebot-plugin-gocqhttp"
+    },
     "moyu": {
         "plugin_name": "摸鱼日历",
         "author": "未知",
