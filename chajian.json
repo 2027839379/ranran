@@ -7,14 +7,39 @@
         "download_url": "https://github.com/2027839379/naxida/releases/download/csgo/open_cases.zip",
         "github_url": "https://github.com/HibiKier/zhenxun_bot"
     },
-    
-    "yuanshen": {
-        "plugin_name": " 游戏",
+    "moyu": {
+        "plugin_name": "摸鱼日历",
         "author": "未知",
-        "version": 2.5,
-        "introduction": "股票游戏，与现实同步",
-        "download_url": "https://github.com/RShock/zhenxun_plugin_stock_legend/archive/refs/heads/main.zip",
-        "github_url": "https://github.com/RShock/zhenxun_plugin_stock_legend"
+        "version": 0.1,
+        "introduction": "今天你摸鱼了吗",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/moyu/moyu.zip",
+        "github_url": "https://github.com/2027839379/Nonebot"
+    },
+    "nonebot_plugin_fortune": {
+        "plugin_name": "抽签",
+        "author": "KafCoppelia",
+        "version": 0.4.12,
+        "introduction": "今日运势",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/chouqian/nonebot_plugin_fortune.zip",
+        "github_url": "https://nonebot.dev/store/plugins"
+    },
+    
+    "nonebot_plugin_today_waifu": {
+        "plugin_name": "今日老婆",
+        "author": "插件商店",
+        "version": 0.1.5,
+        "introduction": "抽老婆",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/laopo/nonebot_plugin_today_waifu.zip",
+        "github_url": "https://nonebot.dev/store/plugins"
+    },
+    
+    "work": {
+        "plugin_name": "打工",
+        "author": "CRAZYShimakaze、Syozhi",
+        "version": 0.5,
+        "introduction": "一些简单的算术",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/dg/work.zip",
+        "github_url": "https://nonebot.dev/store/plugins"
     },
     "zhenxun_plugin_siyuan": {
         "plugin_name": "思源笔记",
