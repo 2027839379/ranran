@@ -7,15 +7,22 @@
         "download_url": "https://github.com/2027839379/naxida/releases/download/csgo/open_cases.zip",
         "github_url": "https://github.com/HibiKier/zhenxun_bot"
     },
+    "todaybefore": {
+        "plugin_name": "历史",
+        "author": "ran",
+        "version": 0.1,
+        "introduction": "史上的今天",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/lishi/todaybefore.zip",
+        "github_url": "https://github.com/2027839379/Nonebot"
+    },
     "24_point": {
         "plugin_name": "24点",
         "author": "CRAZYSHIMAKAZE",
         "version": 0.1,
         "introduction": "24点小游戏",
         "download_url": "https://github.com/2027839379/naxida/releases/download/24dian/24_point.zip",
-        "github_url": "https://github.com/2027839379/naxida/releases/download/24dian/24_point.zip"
+        "github_url": "https://github.com/2027839379/Nonebot"
     },
-    ,
     "nonebot_plugin_gocqhttp": {
         "plugin_name": "gocq-webui",
         "author": "mnixry",
