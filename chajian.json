@@ -16,6 +16,14 @@
         "github_url": "https://github.com/2027839379/Nonebot"
     },
     
+    "emojimix": {
+        "plugin_name": "表情合成",
+        "author": "HibiKier",
+        "version": 0.1,
+        "introduction": "emojimix合成器",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/emojimix/emojimix.zip",
+        "github_url": "https://github.com/HibiKier/zhenxun_bot"
+    },
     "draw_card": {
         "plugin_name": "游戏抽卡",
         "author": "HibiKier",
