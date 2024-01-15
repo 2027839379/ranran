@@ -16,6 +16,14 @@
         "github_url": "https://github.com/2027839379/Nonebot"
     },
     
+    "draw_card": {
+        "plugin_name": "游戏抽卡",
+        "author": "HibiKier",
+        "version": 0.1,
+        "introduction": "模拟抽卡,赛马娘，原神，明日方舟等",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/chouka/draw_card.zip",
+        "github_url": "https://github.com/HibiKier/zhenxun_bot"
+    },
     "crazy_thursday": {
         "plugin_name": "疯狂星期四",
         "author": "不记得了",
