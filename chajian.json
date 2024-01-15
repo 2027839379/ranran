@@ -15,6 +15,15 @@
         "download_url": "https://github.com/2027839379/naxida/releases/download/xiaoyouxi/youxin.zip",
         "github_url": "https://github.com/2027839379/Nonebot"
     },
+    
+    "crazy_thursday": {
+        "plugin_name": "疯狂星期四",
+        "author": "不记得了",
+        "version": 0.1,
+        "introduction": "天天疯狂",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/fengkuangxingqisi/crazy_thursday.zip",
+        "github_url": "https://github.com/2027839379/Nonebot"
+    },
     "nonebot_plugin_picstatus": {
         "plugin_name": "状态",
         "author": "lgc-NB2Dev",
