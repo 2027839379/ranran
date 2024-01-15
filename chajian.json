@@ -7,6 +7,14 @@
         "download_url": "https://github.com/2027839379/naxida/releases/download/csgo/open_cases.zip",
         "github_url": "https://github.com/HibiKier/zhenxun_bot"
     },
+    "youxin": {
+        "plugin_name": "一些游戏",
+        "author": "ran",
+        "version": 0.1,
+        "introduction": "一些小游戏集合",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/xiaoyouxi/youxin.zip",
+        "github_url": "https://github.com/2027839379/Nonebot"
+    },
     "todaybefore": {
         "plugin_name": "历史",
         "author": "ran",
