@@ -15,7 +15,16 @@
         "download_url": "https://github.com/2027839379/naxida/releases/download/xiaoyouxi/youxin.zip",
         "github_url": "https://github.com/2027839379/Nonebot"
     },
+
     
+    "minesweeper": {
+        "plugin_name": "成语接龙",
+        "author": "CRAZYSHIMAKAZE",
+        "version": 0.1,
+        "introduction": "扫雷游戏",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/saolei/minesweeper.zip",
+        "github_url": "https://github.com/HibiKier/zhenxun_bot"
+    },
     "idiom_salon": {
         "plugin_name": "成语接龙",
         "author": "CRAZYShimakaze",
