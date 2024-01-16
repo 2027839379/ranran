@@ -17,6 +17,14 @@
     },
 
     
+    "niuniu": {
+        "plugin_name": "牛牛大作战",
+        "author": "molanp",
+        "version": 0.2,
+        "introduction": "与注册牛子的人进行击剑，对战结果影响牛子长度",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/niuniu/niuniu.zip",
+        "github_url": "https://github.com/HibiKier/zhenxun_bot"
+    },
     "minesweeper": {
         "plugin_name": "扫雷",
         "author": "CRAZYSHIMAKAZE",
