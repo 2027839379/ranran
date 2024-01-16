@@ -18,7 +18,7 @@
 
     
     "minesweeper": {
-        "plugin_name": "成语接龙",
+        "plugin_name": "扫雷",
         "author": "CRAZYSHIMAKAZE",
         "version": 0.1,
         "introduction": "扫雷游戏",
