@@ -94,7 +94,7 @@
         "author": "mnixry",
         "version": 0.1,
         "introduction": "使用gocq登录",
-        "download_url": "https://github.com/2027839379/naxida/releases/download/zhijian/nonebot_plugin_gocqhttpQQ.zip",
+        "download_url": "https://github.com/2027839379/naxida/releases/download/gocq/nonebot_plugin_gocqhttpQQ.zip",
         "github_url": "https://github.com/mnixry/nonebot-plugin-gocqhttp"
     },
     "moyu": {
